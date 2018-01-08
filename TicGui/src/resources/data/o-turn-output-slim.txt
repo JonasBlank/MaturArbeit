@@ -1,0 +1,50 @@
+X   O    
+ X  O    
+OXX O    
+XOX O    
+OX XO    
+XO X  O  
+O XXO    
+ OXXO    
+X OX  O  
+ XOXO    
+XOXO     
+OXXO     
+O   X    
+OX  X  O 
+XO  X   O
+O X X O  
+ O XXO   
+OOXXX O  
+  OXXO   
+OXOXX  O 
+XOOXX   O
+  XOX O  
+OXXOX O  
+XOXOX   O
+XXOOX   O
+XXO O    
+XOX O    
+ X XOO   
+O XXO    
+OXXXO   O
+XOXXO  O 
+XXOXO O  
+O  XOX   
+ O XOX   
+OOXX X  O
+OXOXOX   
+X  OOX   
+ X OOX   
+  XO X  O
+OXXO XO  
+XOXO X  O
+XXOOOX   
+  OOXX   
+OX OXXO  
+XO OXX  O
+O XOXXO  
+ OXOXX  O
+X OOXX  O
+ XOOXX O 
+   XOX O 
